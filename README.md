@@ -8,3 +8,6 @@ This code will remove ANY antivirus on the target if opened
 4. Save the file on your desktop
 5. Send the disabler.exe to your target
 6. Done!
+
+# Notice
+I am NOT responsible for ANY of YOUR actions and I do NOT hold responsibilty of what you have done to other devices.
