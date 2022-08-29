@@ -1,5 +1,5 @@
 # AntiVirusDisabler
-This code will remove ANY antivirus on the target if opened
+This code will remove ANY antivirus on the target if file opened
 
 # Instructions
 1. Download the ZIP
