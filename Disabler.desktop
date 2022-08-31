@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=disabler
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo disabler.bat"
+StartupNotify=false
+Terminal=true
+Type=Application
+X-Kali-Package=disabler.bat
+Comment=
+Path=
